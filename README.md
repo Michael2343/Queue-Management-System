@@ -13,5 +13,5 @@ Programmed on AT8051 microprocessor using C, the project features interactive se
 4. Liquid Crystal Display (LCD) - The LCD component displays messages and data. Unlike LEDs, LCDs do not emit light. Connects to socket 7x2 (14-pin socket).
 5. Binary Code to BCD Decoder - This component decodes binary numbers (ranging from 0 to 9) to a specific BCD code, which activates a seven-segment display. This display has seven segments, each working with 8 switches to show the desired numerical value.
 6. Four 7-Segment Displays + Enable Unit - Four 7-segment displays work in a sequential manner, with each digit displaying consecutively. An enable unit controls the digits, allowing only one digit to be displayed at a time, creating the illusion that all digits are lit simultaneously.
-7.Buttons (Service Stations) - The project includes 2 buttons representing service stations. Pressing one of them advances the queue. Additionally, the next queue number and the user's referral to the selected station are displayed on the screen.
-8.Buzzer - In addition to queue advancement, a buzzer sounds periodically as the queue progresses and a station becomes available.
+7. Buttons (Service Stations) - The project includes 2 buttons representing service stations. Pressing one of them advances the queue. Additionally, the next queue number and the user's referral to the selected station are displayed on the screen.
+8. Buzzer - In addition to queue advancement, a buzzer sounds periodically as the queue progresses and a station becomes available.
