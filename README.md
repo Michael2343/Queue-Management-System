@@ -1,12 +1,12 @@
-## Queue-Management-System
+# Queue-Management-System
 
-# Summary
+## Summary
 Programmed on AT8051 microprocessor using C, the project features interactive self-developed mini-OS, SIM900 Module with a custom-built interface between the microprocessor and sim900 module (The SMS messages arrive in Hebrew)
 
-# Electrical Diagram
+## Electrical Diagram
 ![Electrical Diagram A3-1](https://github.com/Michael2343/Queue-Management-System/assets/100785699/ff20d293-3a6d-4750-a76d-3503b84eb0e3)
 
-#Technical Specification
+## Technical Specification
 1. AT89C5131 Microcontroller - The AT89C5131 microcontroller from ATMAIL is based on the Intel 8051 processor, with unique enhancements. The microcontroller includes counters, timers, an interrupt system, serial communication, and more.
 2. GSM SIM900 Module - Easily and quickly installed onto the main controller, enabling the sending of SMS messages to any phone number according to a specific protocol (explained later).
 3. Keypad - 4x4 keypad with phone digits (1-9, *, #) and letters (A, B, C, D). Connects to socket x18 (8-pin socket).
